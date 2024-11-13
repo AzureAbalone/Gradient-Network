@@ -1,0 +1,91 @@
+threads: 5
+invite_code: "DLZFHM"
+capsolver_api_key: "CAP-xxxxx"
+
+delay_before_start:
+  min: 5
+  max: 10
+
+imap_settings:
+  gmail.com: imap.gmail.com
+  rambler.ru: imap.rambler.ru
+  hotmail.com: outlook.office365.com
+  outlook.com: outlook.office365.com
+  live.com: outlook.office365.com
+  mail.ru: imap.mail.ru
+  gmx.com: imap.gmx.com
+  yahoo.com: imap.mail.yahoo.com
+  gmx.net: imap.gmx.net
+  gmx.de: imap.gmx.net
+
+email_settings:
+  gmail.com:
+    imap_host: imap.gmail.com
+    imap_port: 993
+    smtp_host: smtp.gmail.com
+    smtp_port: 587
+    use_ssl: true
+    require_ssl: true
+  rambler.ru:
+    imap_host: imap.rambler.ru
+    imap_port: 993
+    smtp_host: smtp.rambler.ru
+    smtp_port: 465
+    use_ssl: true
+    require_ssl: true
+  hotmail.com:
+    imap_host: outlook.office365.com
+    imap_port: 993
+    smtp_host: smtp-mail.outlook.com
+    smtp_port: 587
+    use_ssl: true
+    require_ssl: true
+  outlook.com:
+    imap_host: outlook.office365.com
+    imap_port: 993
+    smtp_host: smtp-mail.outlook.com
+    smtp_port: 587
+    use_ssl: true
+    require_ssl: true
+  live.com:
+    imap_host: outlook.office365.com
+    imap_port: 993
+    smtp_host: smtp-mail.outlook.com
+    smtp_port: 587
+    use_ssl: true
+    require_ssl: true
+  mail.ru:
+    imap_host: imap.mail.ru
+    imap_port: 993
+    smtp_host: smtp.mail.ru
+    smtp_port: 587
+    use_ssl: true
+    require_ssl: true
+  gmx.com:
+    imap_host: imap.gmx.com
+    imap_port: 993
+    smtp_host: mail.gmx.com
+    smtp_port: 587
+    use_ssl: true
+    require_ssl: true
+  yahoo.com:
+    imap_host: imap.mail.yahoo.com
+    imap_port: 993
+    smtp_host: smtp.mail.yahoo.com
+    smtp_port: 587
+    use_ssl: true
+    require_ssl: true
+  gmx.net:
+    imap_host: imap.gmx.net
+    imap_port: 993
+    smtp_host: mail.gmx.net
+    smtp_port: 587
+    use_ssl: true
+    require_ssl: true
+  gmx.de:
+    imap_host: imap.gmx.net
+    imap_port: 993
+    smtp_host: mail.gmx.net
+    smtp_port: 587
+    use_ssl: true
+    require_ssl: true
