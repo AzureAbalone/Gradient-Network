@@ -1,7 +1,7 @@
 # 🤖Gradient Network Bot🤖
 
 <div align="center">
-  <img src="./images/console.png" alt="Gradient Bot Console" width="951"/>
+  <img src="./console.png" alt="Gradient Bot Console" width="951"/>
 </div>
 
 # 🥇 Overview 🥇
@@ -10,9 +10,9 @@ _Gradient Bot is the next generation software automation made for registering an
 
 **💰Price💰 : 80$ USDT**
 
-[Contact _ Telegram](https://t.me/dellcontontai) : **https://t.me/dellcontontai**
+[Contact _ Telegram](https://t.me/dellcontontai): **https://t.me/dellcontontai**
 
-[Video_demo](https://youtu.be/V4W5QVaF6MQ) : **https://youtu.be/V4W5QVaF6MQ**
+[Video_demo](https://youtu.be/V4W5QVaF6MQ): **https://youtu.be/V4W5QVaF6MQ**
 
 ## 🏕️ Features
 
